@@ -1,2 +1,3 @@
 # Draco-Executor-
-This is a 100% Safe Roblox Lua Script Executor without any virus and/or malware -Checked with anti-virus- This project was created by SaPanada *WITHOUT COPYRIGHT* Please do not imitate 
+This is a 100% Safe Roblox Lua Script Executor without any virus and/or malware -Checked with anti-virus- This project was created by SaPanada *WITHOUT COPYRIGHT* Please do not imitate
+@By SaPanada DEV Team. This Executor will be update (maybe) all weaks, on Saturday.
